@@ -39,4 +39,4 @@ def parse_page(url):
 This modified function will find all the text content on the page and return it as a list.
 
 Conclusion
-Web scraping can be a powerful tool for extracting data from websites. With Python and the BeautifulSoup library, you can quickly and easily extract links, images, text content, and more. This script is a starting point for your own web scraping projects.
+Web scraping can be a powerful tool for extracting data from websites. With Python and the BeautifulSoup library, you can quickly and easily extract links, images, text content, and more. This script is a starting point for your own web scraping projects.# WebScrapingV1
